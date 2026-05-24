@@ -21,3 +21,5 @@ Durant la pràctica es realitzaran captures en viu i també s’analitzaran fitx
 - i contingut de paquets.
 
 També es farà ús dels filtres de visualització de Wireshark per facilitar l’anàlisi del trànsit capturat.
+
+- [Anar al infrome](/informe.md)
