@@ -1,0 +1,34 @@
+220 ubuntu-server ESMTP Postfix (Ubuntu)
+
+ehlo pep
+
+250-ubuntu-server
+250-PIPELINING
+250-SIZE 10240000
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+
+mail from: pau
+
+250 2.1.0 Ok
+
+rcpt to: root
+
+250 2.1.5 Ok
+
+data
+
+354 End data with <CR><LF>.<CR><LF>
+
+mensaje ultrasecreto para el administrador
+.
+
+250 2.0.0 Ok: queued as 6F8541C18B7
+
+quit
+
+221 2.0.0 Bye
